@@ -17,4 +17,9 @@ describe('Sum Function Tests', function () {
         const sumResult = addTwoNumbers(-7, -9);
         expect(sumResult).to.equal(-16);
     });
+
+    it('The function should be able to add two zeros', function () {
+        const sumResult = addTwoNumbers(0, 0);
+        expect(sumResult).to.equal(0);
+    });
 });
