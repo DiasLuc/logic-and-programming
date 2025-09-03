@@ -1,0 +1,28 @@
+{
+  "name": "logic-and-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiasLuc/logic-and-programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DiasLuc/logic-and-programming/issues"
+  },
+  "homepage": "https://github.com/DiasLuc/logic-and-programming#readme",
+  "dependencies": {
+    "chai": "^6.0.1",
+    "mocha": "^11.7.2"
+  }
+}
